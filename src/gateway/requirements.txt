@@ -1,8 +1,8 @@
 astroid==2.9.3
-certifi==2021.10.8
+certifi==2023.7.22
 charset-normalizer==2.0.11
 click==8.0.3
-Flask==2.0.2
+Flask==2.2.5
 Flask-PyMongo==2.3.0
 idna==3.3
 isort==5.10.1
@@ -17,8 +17,8 @@ pika==1.2.0
 platformdirs==2.5.0
 pylint==2.12.2
 pymongo==4.0.1
-requests==2.27.1
+requests==2.31.0
 toml==0.10.2
-urllib3==1.26.8
-Werkzeug==2.0.3
+urllib3==1.26.18
+Werkzeug==2.3.8
 wrapt==1.13.3
