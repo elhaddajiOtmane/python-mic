@@ -2,7 +2,7 @@ astroid==2.9.3
 certifi==2023.7.22
 charset-normalizer==2.0.12
 decorator==4.4.2
-idna==3.3
+idna==3.7
 imageio==2.16.0
 imageio-ffmpeg==0.4.5
 isort==5.10.1
