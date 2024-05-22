@@ -17,7 +17,7 @@ pika==1.2.0
 platformdirs==2.5.0
 pylint==2.12.2
 pymongo==4.6.3
-requests==2.32.0
+requests==2.32.2
 toml==0.10.2
 urllib3==1.26.18
 Werkzeug==2.3.8
