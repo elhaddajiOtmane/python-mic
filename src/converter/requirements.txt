@@ -21,5 +21,5 @@ pymongo==4.6.3
 requests==2.32.2
 toml==0.10.2
 tqdm==4.66.3
-urllib3==1.26.19
+urllib3==2.2.2
 wrapt==1.13.3
