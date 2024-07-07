@@ -1,5 +1,5 @@
 astroid==2.9.3
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==2.0.12
 decorator==4.4.2
 idna==3.7
