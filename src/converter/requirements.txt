@@ -1,5 +1,5 @@
 astroid==2.9.3
-certifi==2023.7.22
+certifi==2024.7.4
 charset-normalizer==2.0.12
 decorator==4.4.2
 idna==3.7
@@ -23,3 +23,5 @@ toml==0.10.2
 tqdm==4.66.3
 urllib3==2.2.2
 wrapt==1.13.3
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
