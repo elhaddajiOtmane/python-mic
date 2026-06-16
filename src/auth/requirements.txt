@@ -12,7 +12,7 @@ mccabe==0.6.1
 mysqlclient==2.1.0
 parso==0.8.3
 platformdirs==2.4.1
-PyJWT==2.4.0
+PyJWT==2.13.0
 pylint==2.12.2
 toml==0.10.2
 Werkzeug==3.1.6
